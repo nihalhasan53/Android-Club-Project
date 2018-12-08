@@ -1,2 +1,2 @@
 # Android Club Project
-Predicts Weather based on City entered. 
+A Simple app which uses weather API to show the weather information of the entered city.
